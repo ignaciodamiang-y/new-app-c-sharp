@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NewApp.ClassLibrary;
+using System;
 
 namespace NewApp.Console
 {
@@ -25,11 +26,7 @@ namespace NewApp.Console
                 System.Console.WriteLine("Ingrese un número válido: ");
             }*/
 
-
-            int int1 = Int32.Parse(num1);
-            int int2 = Convert.ToInt32(num2);
-
-            System.Console.WriteLine($"La suma de {int1} y {int2} es igual a {int1 + int2}");
+            System.Console.WriteLine($"{num1} + {num2} = {Calculator.Sumar(num1, num2)}");
             System.Console.ReadKey();
         }
     }
