@@ -1,0 +1,16 @@
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.csproj.AssemblyReference.cache
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.AssemblyInfoInputs.cache
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.AssemblyInfo.cs
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.csproj.CoreCompileInputs.cache
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\bin\Debug\net5.0\NewApp.Console.exe
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\bin\Debug\net5.0\NewApp.Console.deps.json
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\bin\Debug\net5.0\NewApp.Console.runtimeconfig.json
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\bin\Debug\net5.0\NewApp.Console.runtimeconfig.dev.json
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\bin\Debug\net5.0\NewApp.Console.dll
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\bin\Debug\net5.0\NewApp.Console.pdb
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.dll
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\refint\NewApp.Console.dll
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.pdb
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\NewApp.Console.genruntimeconfig.cache
+G:\Workspace\cache\new-app\NewApp.Console\NewApp.Console\obj\Debug\net5.0\ref\NewApp.Console.dll
